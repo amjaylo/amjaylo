@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**amjaylo/amjaylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![@amjaylo's Holopin board](https://holopin.io/api/user/board?user=amjaylo)](https://holopin.io/@amjaylo)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
